@@ -1,0 +1,15 @@
+/venv/
+
+test.db
+test.py
+bot_token.py
+bot_database
+test_database
+
+.idea/Telegram-bot.iml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/workspace.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+
